@@ -36,6 +36,7 @@ validation/
 *.spec
 
 asset-v1_Kodlasam+DS_01+2023_05_30+type@asset+block@Case_Study__Cat_vs._Dog_Image_Classification.docx
+cat_dog_classification.mp4
 
 # Installer logs
 pip-log.txt
