@@ -1,5 +1,8 @@
 # Case Study: Cat vs. Dog Image Classification
 
+
+![ss](screenshot.png)
+
 ### Project Description:
 In this project, a deep learning model has been developed to classify whether an image is of a cat or a dog.
 
