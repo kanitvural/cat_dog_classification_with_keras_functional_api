@@ -28,6 +28,9 @@ MANIFEST
 
 train/
 validation/
+test/
+old_data/
+data/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
